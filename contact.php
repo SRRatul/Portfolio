@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Me</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
@@ -16,7 +16,7 @@
                 <li><a href="portfolio.php">Portfolio</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </ul>
-            <img src="images/profile.jpg" alt="My Photo" class="profile-photo">
+            <img src="profile.jpg" alt="My Photo" class="profile-photo">
         </nav>
     </header>
 
